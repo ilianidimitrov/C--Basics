@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.exe
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.deps.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.pdb

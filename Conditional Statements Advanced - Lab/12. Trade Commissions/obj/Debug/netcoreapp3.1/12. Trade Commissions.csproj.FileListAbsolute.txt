@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\Ilian Dimitrov\source\repos\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb

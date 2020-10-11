@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.exe
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.deps.json
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.json
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.pdb
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\Ilian Dimitrov\source\repos\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.pdb

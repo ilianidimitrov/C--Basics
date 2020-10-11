@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Left and Right Sum", "09. Left and Right Sum.csproj", "{B2314663-76FF-4E19-AFFE-1AA61D7F53C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2314663-76FF-4E19-AFFE-1AA61D7F53C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2314663-76FF-4E19-AFFE-1AA61D7F53C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2314663-76FF-4E19-AFFE-1AA61D7F53C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2314663-76FF-4E19-AFFE-1AA61D7F53C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3CC31D-B7AA-4AF5-8FC8-0E3EAB8A9D53}
+	EndGlobalSection
+EndGlobal

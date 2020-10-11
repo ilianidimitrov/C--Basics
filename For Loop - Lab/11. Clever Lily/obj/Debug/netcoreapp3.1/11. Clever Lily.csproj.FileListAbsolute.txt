@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.exe
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.deps.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.pdb
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.pdb

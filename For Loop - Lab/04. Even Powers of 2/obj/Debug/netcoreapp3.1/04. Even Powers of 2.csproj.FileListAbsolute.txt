@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.exe
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.deps.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\bin\Debug\netcoreapp3.1\04. Even Powers of 2.pdb
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\04. Even Powers of 2\obj\Debug\netcoreapp3.1\04. Even Powers of 2.pdb

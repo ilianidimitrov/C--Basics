@@ -1,0 +1,11 @@
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csprojAssemblyReference.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\Ilian Dimitrov\Desktop\New folder\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
